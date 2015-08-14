@@ -1,0 +1,3 @@
+SMO
+MLPClassifier
+AdaBoostM1
